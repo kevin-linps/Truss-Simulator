@@ -1,0 +1,10 @@
+.pytest_cache/v/cache/stepwise
+.vscode/settings.json
+test/__pycache__/__init__.cpython-37.pyc
+test/__pycache__/test_connection.cpython-37-pytest-6.1.1.pyc
+test/__pycache__/test_JHU_truss.cpython-37-pytest-6.1.1.pyc
+truss/__pycache__/__init__.cpython-37.pyc
+truss/__pycache__/Link.cpython-37.pyc
+truss/__pycache__/Node.cpython-37.pyc
+truss/__pycache__/test_truss.cpython-37-pytest-5.2.1.pyc
+truss/__pycache__/Truss.cpython-37.pyc
